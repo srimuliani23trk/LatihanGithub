@@ -1,5 +1,5 @@
 Tahapan belajar Github
 1. Belajar Revo
-2. Belajar Comit
+2. Belajar Commit
 3. Belajar Brench
 4. Belajar Marged
